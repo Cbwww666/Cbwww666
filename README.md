@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bowei(Jeden) Cheng</h1>
+<h1 align="center">Hi 👋, I'm Bowei(Jaden) Cheng</h1>
 <h3 align="center">Full stack data developer with rich experience in data analytics, data visualization, and coding.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cbwww666&label=Profile%20views&color=0e75b6&style=flat" alt="cbwww666" /> </p>
