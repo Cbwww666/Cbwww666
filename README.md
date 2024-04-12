@@ -9,10 +9,13 @@
 
 - 📚 I'm majoring **in Statistics and Economics, Minor in Computer Science**
 
-- 📫 How to reach me **bowei.cheng@mail.utoronto.ca**
+- 📫 How to reach me: **bowei.cheng@mail.utoronto.ca**
 
-<h3 align="left">Connect with me:[LinkedIn](https://www.linkedin.com/in/bowei-cheng-12640925a/)</h3>
+<h3 align="left">
+  Connect with me: <a href="https://www.linkedin.com/in/bowei-cheng-12640925a/" target="_blank">LinkedIn</a>
+</h3>
 <p align="left">
+ 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
