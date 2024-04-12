@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bowei(Jaden) Cheng</h1>
-<h3 align="center">Full stack data developer with rich experience in data analytics, data visualization, and coding.</h3>
+<h3 align="center">Excellent Full stack data developer with rich experience in data analytics, data visualization, and coding.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cbwww666&label=Profile%20views&color=0e75b6&style=flat" alt="cbwww666" /> </p>
 
-- 🏫 I'm a fourth **Year student at the University of Toronto**
+- 🏫 I'm a fourth Year student at the **University of Toronto**
 
 - 🌱 I’m currently learning **Distributed Systems,Big Data Tools**
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **bowei.cheng@mail.utoronto.ca**
 
-
+<h3 align="left">Connect with me:[LinkedIn](https://www.linkedin.com/in/bowei-cheng-12640925a/)</h3>
 <p align="left">
 </p>
 
