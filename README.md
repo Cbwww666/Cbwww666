@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **bowei.cheng@mail.utoronto.ca**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
